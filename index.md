@@ -2,7 +2,7 @@
 layout: page
 title: Cloud Researcher
 subtitle: Artificial Intelligence Research Laboratory, ETRI
-cover-img: /assets/img/b9.png
+cover-img: /assets/img/b1.png
 ---
 
 <br/>

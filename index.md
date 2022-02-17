@@ -25,7 +25,7 @@ cover-img: /assets/img/b1.png
 - 나라장터 & EDI (물품 일반용역) 시스템 운영팀
 
 **2022년** <BR></BR>
-**교육부 4세대 지능형 나이스 구축 2단계
+**교육부 4세대 지능형 나이스 구축 2단계**
 - 검정고시 대입전형
 <BR></BR>
 I love to bring new ideas and share it with collaborators. Hello world! &#128525;

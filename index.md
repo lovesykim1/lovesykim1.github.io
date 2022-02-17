@@ -26,7 +26,7 @@ cover-img: /assets/img/b1.png
 
 ## 2022 <BR>
 **교육부 4세대 지능형 나이스 구축 2단계**
-- 검정고시 대입전형
+- 검정고시 대입전형 (nexacro platform)
 
 I love to bring new ideas and share it with collaborators. Hello world! &#128525;
 

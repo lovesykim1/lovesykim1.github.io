@@ -15,7 +15,7 @@ cover-img: /assets/img/b1.png
 
 <details markdown="1" open>
 <summary>  
-<b> 2020 <b> 
+<b> 2020 </b> 
 </summary>
 
 **대법원 가족정보시스템 운영 및 유지 관리 사업**

@@ -14,7 +14,7 @@ cover-img: /assets/img/b1.png
 ## Participation Project🖥
 
 <details markdown="1" open>
-<summary style = "font-Weight : bold; font-size : 60px; color : #E43914;">  
+<summary>  
 <b> 2020 <b> 
 </summary>
 

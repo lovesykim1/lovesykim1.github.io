@@ -2,7 +2,7 @@
 layout: page
 title: lovesykim_blog
 subtitle: Full-stack developer. kim si yeon
-cover-img: /assets/img/b1.png
+cover-img: /assets/img/b2.png
 ---
 
 <br/>

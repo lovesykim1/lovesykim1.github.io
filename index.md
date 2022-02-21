@@ -14,8 +14,8 @@ cover-img: /assets/img/b1.png
 ## Participation Project🖥
 
 <details markdown="1">
-<summary> 
-<b> 2020 </b> 
+<summary style = "font-Weight : bold; font-size : 60px; color : #E43914;">  
+<b> 2020 <b> 
 </summary>
 
 **대법원 가족정보시스템 운영 및 유지 관리 사업**

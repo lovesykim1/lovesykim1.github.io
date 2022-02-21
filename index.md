@@ -13,7 +13,7 @@ cover-img: /assets/img/b1.png
 
 ## Participation Project🖥
 
-<details markdown="1">
+<details markdown="1" open>
 <summary style = "font-Weight : bold; font-size : 60px; color : #E43914;">  
 <b> 2020 <b> 
 </summary>
@@ -23,7 +23,7 @@ cover-img: /assets/img/b1.png
  
 </details>
 
-<details markdown="1">
+<details markdown="1" open>
 <summary> 
 <b> 2021 </b>  <BR>
 </summary>
@@ -36,7 +36,7 @@ cover-img: /assets/img/b1.png
 
 </details>
 
-<details markdown="1">
+<details markdown="1" open>
 <summary>
 <b> 2022 </b>  <BR>
 </summary>

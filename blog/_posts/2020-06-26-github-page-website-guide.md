@@ -4,7 +4,7 @@ title: COVID-19 Negative
 subtitle: 코로나확진, 닥터나우로 비대면 진료 받은 후기
 gh-repo: lovesykim1/lovesykim1.github.io
 gh-badge: [star, fork, follow]
-cover-img: /assets/img/20220225/1.png
+cover-img: https://www.who.int/images/default-source/mca/mca-covid-19/coronavirus-2.tmb-1024v.jpg?Culture=en&sfvrsn=4dba955c_6
 tags: [covid-19, Blog, GitHub, 코로나, lovesykim1]
 comments: true
 ---

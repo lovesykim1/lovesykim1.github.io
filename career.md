@@ -40,3 +40,8 @@ title: My Career
 * Implement _**network programming**_.
 
 #### I'm currently a Java developer (Spring framework), I'm also studying front-end (react, js).
+
+# certificate
+
+### SQL
+* _**SQL-D**_ (2021.06.25) :  KOREA Data Agency

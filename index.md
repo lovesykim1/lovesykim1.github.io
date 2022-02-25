@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hi! I am siyeon Kim!
+title: lovesykim
 subtitle: Full-stack developer. kim si yeon
 cover-img: /assets/img/bebe.PNG
 ---
